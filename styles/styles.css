@@ -1,0 +1,63 @@
+
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: lightblue
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+h2 {
+	text-align: left;
+	font-size: 25px;
+	border-bottom:1px solid black;
+}
+
+#tresc {
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-left: 10px;
+	
+}
+
+
+a {
+	text-decoration: none;
+	color: black;
+	border-bottom: 1px gray;  /**/
+}
+
+
+a:hover {
+	background: #CCCCCC;
+	color: white;
+}
+
+
+p {
+	text-align: justify  ;
+	
+}
+
+.zdjecia_right {
+	float: right;
+	padding: 20px;
+	margin: 20px;
+	border: 1px solid grey;
+}
+
+.zdjecia_left {
+	float: left;
+	padding: 20px;
+	margin: 20px;
+	border: 1px solid grey;
+}
+
+#stopka {
+	border-bottom:1px solid black;
+	font-size: 0.75EM;
+	text-align: center;
+	clear:both;
+}
